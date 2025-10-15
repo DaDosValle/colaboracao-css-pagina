@@ -237,9 +237,16 @@ footer p {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     unicode-bidi: isolate;
+    color: white;
 }
 
 footer img {
     overflow-clip-margin: content-box;
     overflow: clip;
+}
+
+footer a {
+    color: #33A8DB;
+    font-weight: bold;
+    text-decoration: none;
 }
